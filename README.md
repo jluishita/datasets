@@ -29,6 +29,9 @@ url: https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
 
 ## Regression
 
+## Time Series
+
+## Natural Language Processing
 
 
 ## Causal Inference

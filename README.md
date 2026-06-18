@@ -22,6 +22,7 @@ Reference URL: https://www.kaggle.com/datasets/arashnic/hr-ana
 ### germanDataClean
 
 This is a slightly clean version of the German Credit dataset.
+
 Nr of rows: 1000 \
 Nr of columns: 20 + target \
 Reference URL: https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data

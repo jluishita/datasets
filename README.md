@@ -7,8 +7,8 @@ Datasets for Data Analytics projects
 
 Dataset about cancellations of hotel bookings.
 
-nr of rows: 36286
-nr of columns: 17
+nr of rows: 36286 \
+nr of columns: 17 \
 url: https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancellation-prediction
 
 ### employee_promotion

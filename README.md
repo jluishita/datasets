@@ -7,24 +7,24 @@ Datasets for Data Analytics projects
 
 Dataset about cancellations of hotel bookings.
 
-- Nr of rows: 36286 \
-- Nr of columns: 17 \
+- Nr of rows: 36286 
+- Nr of columns: 17 
 - Reference URL: https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancellation-prediction
 
 ### employee_promotion
 
 Dataset about employees recommended for promotion
 
-- Nr of rows: 54808 \
-- Nr of columns: 12 \
+- Nr of rows: 54808 
+- Nr of columns: 12 
 - Reference URL: https://www.kaggle.com/datasets/arashnic/hr-ana
 
 ### germanDataClean
 
 This is a slightly clean version of the German Credit dataset.
 
-- Nr of rows: 1000 \
-- Nr of columns: 20 + target \
+- Nr of rows: 1000 
+- Nr of columns: 20 + target 
 - Reference URL: https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
 
 ## Regression

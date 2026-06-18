@@ -11,7 +11,7 @@ nr of rows: 36286
 nr of columns: 17
 url: https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancellation-prediction
 
-### eployee_promotion
+### employee_promotion
 
 Dataset about employees recommended for promotion
 

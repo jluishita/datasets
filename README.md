@@ -37,6 +37,15 @@ A curated dataset about gas consumption in France. The dataset has been elaborat
 
 ## Natural Language Processing
 
+### BBC_News_articles
+
+A collection of BBC News articles with their corresponding subject (sports, business, politics, ...). The dataset does not include the summaries that are present in the original data. It has been processed to have the structure of a dataset, using the following ETL process:
+
+This dataset can be used for text classification, text clusterization, text summarization, or text translation, among other possible applications.
+
+References:
+
+- This dataset was created using a dataset used for data categorization that onsists of 2225 documents from the BBC news website corresponding to stories in five topical areas from 2004-2005 used in the paper of D. Greene and P. Cunningham. "Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering", Proc. ICML 2006; whose all rights, including copyright, in the content of the original articles are owned by the BBC. More at http://mlg.ucd.ie/datasets/bbc.html
 
 ## Causal Inference
 

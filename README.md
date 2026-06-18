@@ -31,6 +31,10 @@ Reference URL: https://archive.ics.uci.edu/dataset/144/statlog+german+credit+dat
 
 ## Time Series
 
+### gasConsumptionFRClean
+
+A curated dataset about gas consumtion in France. The dataset has been elaborated by myself using the following ETL process:
+
 ## Natural Language Processing
 
 

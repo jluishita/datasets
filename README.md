@@ -33,7 +33,7 @@ Reference URL: https://archive.ics.uci.edu/dataset/144/statlog+german+credit+dat
 
 ### gasConsumptionFRClean
 
-A curated dataset about gas consumtion in France. The dataset has been elaborated by myself using the following ETL process:
+A curated dataset about gas consumption in France. The dataset has been elaborated by myself using the following ETL process:
 
 ## Natural Language Processing
 

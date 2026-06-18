@@ -33,7 +33,9 @@ This is a slightly clean version of the German Credit dataset.
 
 ### gasConsumptionFRClean
 
-A curated dataset about gas consumption in France. The dataset has been elaborated by myself using the following ETL process:
+A curated dataset about gas consumption in France. The dataset has been developed by me (Jorge Luis Hita) using the following ETL process:
+
+- ETL process: https://github.com/jluishita/etl-processes/blob/main/ETL-gas-consumption-France.ipynb
 
 ## Natural Language Processing
 

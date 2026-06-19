@@ -29,6 +29,8 @@ This is a slightly clean version of the German Credit dataset.
 
 ## Regression
 
+## Target-Agnostic Datasets
+
 ## Time Series
 
 ### gasConsumptionFRClean

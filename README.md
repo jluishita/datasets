@@ -58,11 +58,17 @@ References:
 
 ## Target-Agnostic Datasets
 
-## Time Series
-
 ### air-quality-madrid-2025
 
-A dataset 
+A dataset containing measures for different magnitudes and control stations in the city of Madrid.The dataset has been developed by me using the following ETL process:
+
+https://github.com/jluishita/etl-processes/blob/main/ETL-air-quality-madrid-2025.ipynb
+
+- The data has 1,457 missing values, corresponding to occasional malfunctions of the measurement devices.
+- There are 11 different magnitudes.
+- There are 24 different stations.
+
+## Time Series
 
 ### gasConsumptionFRClean
 

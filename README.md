@@ -1,5 +1,30 @@
 # datasets
-Datasets for Data Analytics projects
+
+Datasets for Data Analytics projects. The datasets are divided in the following areas:
+
+- Causal Inference
+- Classification
+- Natural Language Processing
+- Target-Agnostic Datasets
+- Time Series
+- Regression
+
+## Causal Inference
+
+### lalonde dataset
+
+References:
+
+- Rajeev Dehejia and Sadek Wahba, "Causal Effects in Non-Experimental Studies: Reevaluating the Evaluation of Training Programs," Journal of the American Statistical Association, Vol. 94, No. 448 (December 1999), pp. 1053-1062.
+- Rajeev Dehejia and Sadek Wahba, "Propensity Score Matching Methods for Non-Experimental Causal Studies," Review of Economics and Statistics, Vol. 84, (February 2002), pp. 151-161.
+- Robert Lalonde, "Evaluating the Econometric Evaluations of Training Programs," American Economic Review, Vol. 76 (1986), pp. 604-620.
+
+Reference URL: https://users.nber.org/~rdehejia/nswdata2.html
+
+### right-heart-catheterization dataset
+The right-heart-catheterization dataset is explained in this web: https://hbiostat.org/data/repo/rhc.html
+
+The original source is the Vanderbilt Biostatistics website: https://hbiostat.org/data/
 
 ## Classification
 
@@ -26,23 +51,6 @@ This is a slightly clean version of the German Credit dataset.
 - Nr of rows: 1000 
 - Nr of columns: 20 + target 
 - Reference URL: https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
-
-## Causal Inference
-
-### lalonde dataset
-
-References:
-
-- Rajeev Dehejia and Sadek Wahba, "Causal Effects in Non-Experimental Studies: Reevaluating the Evaluation of Training Programs," Journal of the American Statistical Association, Vol. 94, No. 448 (December 1999), pp. 1053-1062.
-- Rajeev Dehejia and Sadek Wahba, "Propensity Score Matching Methods for Non-Experimental Causal Studies," Review of Economics and Statistics, Vol. 84, (February 2002), pp. 151-161.
-- Robert Lalonde, "Evaluating the Econometric Evaluations of Training Programs," American Economic Review, Vol. 76 (1986), pp. 604-620.
-
-Reference URL: https://users.nber.org/~rdehejia/nswdata2.html
-
-### right-heart-catheterization dataset
-The right-heart-catheterization dataset is explained in this web: https://hbiostat.org/data/repo/rhc.html
-
-The original source is the Vanderbilt Biostatistics website: https://hbiostat.org/data/
 
 ## Natural Language Processing
 

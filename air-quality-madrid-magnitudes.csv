@@ -1,0 +1,19 @@
+Code,Magnitude,Abbrev.,Unit,Technique Code,Measurement Technique
+01,Sulfur Dioxide,$\text{SO}_2$,$\mu\text{g/m}^3$,38,Ultraviolet fluorescence
+06,Carbon Monoxide,$\text{CO}$,$\text{mg/m}^3$,48,Infrared absorption
+07,Nitric Oxide,$\text{NO}$,$\mu\text{g/m}^3$,08,Chemiluminescence
+08,Nitrogen Dioxide,$\text{NO}_2$,$\mu\text{g/m}^3$,08,Chemiluminescence
+09,Particulate Matter $< 2.5\ \mu\text{m}$,$\text{PM}_{2.5}$,$\mu\text{g/m}^3$,47,Microbalance/Spectrometry*
+10,Particulate Matter $< 10\ \mu\text{m}$,$\text{PM}_{10}$,$\mu\text{g/m}^3$,47,Microbalance/Spectrometry*
+12,Nitrogen Oxides,$\text{NO}_x$,$\mu\text{g/m}^3$,08,Chemiluminescence
+14,Ozone,$\text{O}_3$,$\mu\text{g/m}^3$,06,Ultraviolet absorption
+20,Toluene,$\text{TOL}$,$\mu\text{g/m}^3$,59,Gas chromatography
+30,Benzene,$\text{BEN}$,$\mu\text{g/m}^3$,59,Gas chromatography
+35,Ethylbenzene,$\text{EBE}$,$\mu\text{g/m}^3$,59,Gas chromatography
+37,m-Xylene,$\text{MXY}$,$\mu\text{g/m}^3$,59,Gas chromatography
+38,p-Xylene,$\text{PXY}$,$\mu\text{g/m}^3$,59,Gas chromatography
+39,o-Xylene,$\text{OXY}$,$\mu\text{g/m}^3$,59,Gas chromatography
+42,Total Hydrocarbons (hexane),$\text{TCH}$,$\text{mg/m}^3$,59,Gas chromatography
+43,Methane,$\text{CH}_4$,$\text{mg/m}^3$,59,Gas chromatography
+44,Non-Methane Hydrocarbons (hexane),$\text{NMHC}$,$\text{mg/m}^3$,59,Gas chromatography
+431,Metaparaxylene,$\text{MPX}$,$\text{mg/m}^3$,59,Gas chromatography

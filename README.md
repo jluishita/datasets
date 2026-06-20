@@ -82,7 +82,13 @@ Dataset with the codes for each magnitude measured in the air-quality-madrid-202
 
 The data has been translated to English from the original file:
 
-URL original description: https://datos.madrid.es/dataset/212629-0-estaciones-control-aire/resource/212629-2-estaciones-control-aire
+URL original description: https://datos.madrid.es/dataset/201410-0-calidad-aire-diario/resource/201410-63-calidad-aire-diario
+
+### air-quality-madrid-stations
+
+Dataset with information about the measurement stations that measured the data of the air-quality-madrid-2025 dataset.
+
+The dataset has been retrieved from: https://datos.madrid.es/dataset/212629-0-estaciones-control-aire/information
 
 ## Time Series
 

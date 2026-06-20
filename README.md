@@ -76,6 +76,14 @@ https://github.com/jluishita/etl-processes/blob/main/ETL-air-quality-madrid-2025
 - There are 11 different magnitudes.
 - There are 24 different stations.
 
+### air-quality-madrid-magnitudes
+
+Dataset with the codes for each magnitude measured in the air-quality-madrid-2025 dataset.
+
+The data has been translated to English from the original file:
+
+URL original description: https://datos.madrid.es/dataset/212629-0-estaciones-control-aire/resource/212629-2-estaciones-control-aire
+
 ## Time Series
 
 ### gasConsumptionFRClean
